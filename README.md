@@ -9,8 +9,8 @@ Observation ≠ Interpretation ≠ Proof.
 
 | Gate | Status |
 | --- | --- |
-| G1 source extraction | PASS / canon authority |
-| G2 script | Mix B wording validated |
+| G1 source extraction | PASS / canon |
+| G2 script | PASS / Mix B baseline |
 | G3 listener + sound | PASS |
-| G4 production | **PASS** — production master accepted |
-| Release / publication | not opened |
+| G4 production | PASS / production master |
+| G5 release / publication | **OPEN** — nothing published |
