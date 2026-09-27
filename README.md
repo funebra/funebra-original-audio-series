@@ -9,7 +9,8 @@ Observation ≠ Interpretation ≠ Proof.
 
 | Gate | Status |
 | --- | --- |
-| G1 source extraction | PASS |
-| G2 script construction | Mix B wording frozen (listener-tested; not a new canon layer) |
-| G3 listener + sound | **PASS** (Listen #01 Mix A partial; #02 Mix B pass) |
-| G4 production (voices / final sound) | **not opened** |
+| G1 source extraction | PASS / canon authority |
+| G2 script | Mix B wording validated |
+| G3 listener + sound | PASS |
+| HOLD | released for production |
+| G4 production | **OPEN** — voice bible next |

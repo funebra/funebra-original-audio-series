@@ -1,20 +1,13 @@
-# HOLD — S001-E01 baseline
-
-Do not edit `script.md` until G4 is **explicitly** opened.
+# HOLD — RELEASED FOR PRODUCTION
 
 ```
 G1 — PASS / canon authority
 G2 — DRAFT PASS → Mix B wording validated
 G3 — PASS / empirical listener acceptance
-G4 — CLOSED
+HOLD — RELEASED FOR PRODUCTION
+G4 — OPEN / PRODUCTION
 ```
 
-Mix A → Mix B is not polish. It is an evidence trail:
-- Mix A exposed the identity leak.
-- Mix B removed that conversion.
-- Registration uncertainty and unresolved absence were preserved.
-
-Branch snapshot: `freeze/S001-E01-G3`
-Freeze notes: `SCRIPT-FREEZE.md`
-
-Nothing further is invented, tested, or expanded from this directory until a production-gate decision.
+`freeze/S001-E01-G3` remains the reference baseline.
+Opening G4 does **not** authorize rewriting canon or unfreezing Mix B *meaning*.
+Performance may change how a line is said. It may not change what a line is allowed to mean.
