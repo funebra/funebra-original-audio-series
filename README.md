@@ -10,8 +10,6 @@ Observation ≠ Interpretation ≠ Proof.
 | Gate | Status |
 | --- | --- |
 | G1 source extraction | PASS |
-| G2 script construction | DRAFT PASS (not locked) |
-| G3 listener + sound | **OPEN / AWAITING HUMAN FIRST-LISTEN** |
-| G4 | not opened |
-
-First-listen protocol: `series/S001-neuron-hunters/episodes/E01-the-unit-that-fires/G3-STATUS.md`
+| G2 script construction | Mix B wording frozen (listener-tested; not a new canon layer) |
+| G3 listener + sound | **PASS** (Listen #01 Mix A partial; #02 Mix B pass) |
+| G4 production (voices / final sound) | **not opened** |
