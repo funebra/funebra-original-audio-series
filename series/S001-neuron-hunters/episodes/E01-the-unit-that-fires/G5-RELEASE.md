@@ -1,61 +1,53 @@
 # S001-E01-G5 · RELEASE / PUBLICATION
 
-**Status: OPEN. Not passed. Nothing has been published.**
+## Status
 
-G5 does not authorize episode changes.
-Upstream: G1 canon · Mix B `script.md` · G3 listener PASS · G4 production master.
+| Subgate | Status |
+| --- | --- |
+| G5.1 Release identity | **PASS · Option B** |
+| G5.2 Artwork + metadata | **OPEN** |
+| G5.3 Destination + hash-verify publish | not opened |
 
-## 1. Approved master (do not substitute)
+Nothing published. Episode audio unchanged.
+
+## Public identity (layers stay separate)
+
+```
+FUNEBRA™ Original Audio Series
+S001 · Neuron Hunters — The Quest for Existence
+E01 · The Unit That Fires
+```
+
+**The Unit That Fires** = public *production* title. Internal provenance remains **I**.  
+Does not enter LS110600 / G1. Cover and store copy may use it.
+
+## Approved master (unchanged)
 
 | File | SHA-256 |
 | --- | --- |
-| `S001-E01-G4-MASTER-candidate.wav` | `c84f8af9949710f756411145cbdc6ac958c5e7909de5ea8e6077f71158714df9` |
-| `S001-E01-G4-MASTER-candidate.mp3` | `ca2b6b09df6b537334a762863c1332eb5af6b7751806f5c5e811f04c2a021fdd` |
+| WAV | `c84f8af9949710f756411145cbdc6ac958c5e7909de5ea8e6077f71158714df9` |
+| MP3 | `ca2b6b09df6b537334a762863c1332eb5af6b7751806f5c5e811f04c2a021fdd` |
 
-Same G4.4 run. MP3 is the regression-tested listen file. WAV is the archive master.
-Publication must ship a byte-identical copy of one of these hashes. Re-export = new G4, not G5.
+Re-export of audio = back to G4.
 
-## 2. Public title — UNDECIDED
+## Cover constraints (G5.2)
 
-Working title **The Unit That Fires** is **I**, not G1.
-G5 may adopt it as *production* title. Adoption does **not** write it into LS110600 canon.
+- Square.
+- Title: The Unit That Fires.
+- Series lockup as above, smaller.
+- Do **not** depict SIGNAL as a neuron, synapse, cell, creature, UFO, or lightning-strike.
+- Do **not** depict a completed machine-capture.
+- Observation field / unmarked event / dry instrument only.
 
-| Option | Public listing | Note |
-| --- | --- | --- |
-| A | S001E01 — Neuron Hunters — The Quest for Existence | title stays series-level only |
-| B | S001E01 — The Unit That Fires | production title; mark I in credits/internal |
-| C | S001E01 — (no episode name) | number + series only |
+## Metadata draft (not live)
 
-Do not create artwork or upload until A/B/C is chosen.
-
-## 3. Release identity (draft, not live)
-
-- Series: FUNEBRA™ Original Audio Series
-- Catalogue: 001
-- Property: S001 NEURON HUNTERS — The Quest for Existence
-- Episode: E01
-- Episode public title: *pending G5 title decision*
-- Attribution: Peter M. Lugha / pLabs Entertainment / FUNEBRA™
-- Source stamp: LS110600 · STEP 01 · Observation ≠ Interpretation ≠ Proof
-
-## 4. Manifest — not yet filled
-
-| Asset | Status |
-| --- | --- |
-| Master WAV (hash above) | identified, not uploaded |
-| Master MP3 (hash above) | identified, not uploaded |
-| Cover artwork | not created |
-| Description copy | not written |
-| Credits / copyright / date / identifiers | not assigned |
-| Host / feed / page | not chosen |
-| Published-file hash check | n/a |
-
-## 5. G5 pass criteria
-
-1. Title decision recorded (A/B/C) without promoting I → G1.
-2. Artwork + metadata exist and do not add canon.
-3. Destination chosen.
-4. Uploaded file SHA-256 matches the approved master.
-5. Public page does not claim verified UFO / completed BN-point / SIGNAL identity.
-
-Until then: G5 OPEN.
+- Title: The Unit That Fires
+- Album / series: FUNEBRA™ Original Audio Series — S001 Neuron Hunters — The Quest for Existence
+- Track: 01
+- Author: Peter M. Lugha
+- Production: pLabs Entertainment / FUNEBRA™
+- Year: 2026
+- Description (short): An observation is recorded. It is not identified. The record is not the living being.
+- Description must not say the signal is a neuron, that registration succeeded, or that the signal died.
+- Rights: FUNEBRA™ / pLabs Entertainment. Source construction: LS110600.
+- Identifiers: TBD at G5.3
