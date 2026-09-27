@@ -19,6 +19,6 @@ Observation ≠ Interpretation ≠ Proof.
 | Catalogue 001 | [`CATALOGUE.md`](CATALOGUE.md) | locked |
 | House rules | [`HOUSE-RULES.md`](HOUSE-RULES.md) | locked |
 | LS110600 provenance | [`source/S001/LS110600/provenance.md`](source/S001/LS110600/provenance.md) | locked to SHA `c022d5d4109029e6f418fda999988456ae3c7804` |
-| S001-E01-G1 source extraction | [`series/S001-neuron-hunters/episodes/E01-the-unit-that-fires/G1-source-extraction.md`](series/S001-neuron-hunters/episodes/E01-the-unit-that-fires/G1-source-extraction.md) | **current gate** |
-| E01 script | `series/S001-neuron-hunters/episodes/E01-the-unit-that-fires/script.md` | blocked until G1 lock |
-| Voice bible | `series/S001-neuron-hunters/voices/voice-bible.md` | follows drama; not written first |
+| S001-E01-G1 source extraction | [`series/S001-neuron-hunters/episodes/E01-the-unit-that-fires/G1-source-extraction.md`](series/S001-neuron-hunters/episodes/E01-the-unit-that-fires/G1-source-extraction.md) | **PASS** |
+| S001-E01-G2 script | [`series/S001-neuron-hunters/episodes/E01-the-unit-that-fires/script.md`](series/S001-neuron-hunters/episodes/E01-the-unit-that-fires/script.md) | **OPEN** — first draft |
+| Voice bible | `series/S001-neuron-hunters/voices/voice-bible.md` | deferred; follows drama |
