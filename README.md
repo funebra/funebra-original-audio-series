@@ -12,5 +12,5 @@ Observation ≠ Interpretation ≠ Proof.
 | G1 source extraction | PASS / canon authority |
 | G2 script | Mix B wording validated |
 | G3 listener + sound | PASS |
-| HOLD | released for production |
-| G4 production | **OPEN** — voice bible next |
+| G4 production | **PASS** — production master accepted |
+| Release / publication | not opened |
