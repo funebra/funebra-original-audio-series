@@ -1,28 +1,30 @@
-# G7 · VISUAL PUBLICATION — OPEN
+# G7 · VISUAL PUBLICATION — OPEN · V3
 
-G6 remains PASS and closed. Do not recut the visualizer.
-G5 audio release remains authority for sound.
+Destination **V3** chosen: YouTube / site (URL not yet supplied).
+G6 closed. G5 untouched.
 
-## Locked file
+Locked file SHA-256:
+`6f3045109325253b02526fb0a37e4cd9b2c1c28815cd804d3f6b6ee3a236187d`
 
-`S001-E01-G6-visualizer.mp4`  
-SHA-256 `6f3045109325253b02526fb0a37e4cd9b2c1c28815cd804d3f6b6ee3a236187d`  
-189.472 s · 1080²
+## YouTube / page paste
 
-Re-export = new G6, not G7.
+**Title:** The Unit That Fires — visual interpretation
 
-## Destination — choose
+**Description:**
 
-| ID | Where |
-| --- | --- |
-| V1 | Additional asset on existing release `s001e01` |
-| V2 | Separate tag e.g. `s001e01-visual` |
-| V3 | YouTube / site you name |
+FUNEBRA™ Original Audio Series
+S001 · Neuron Hunters — The Quest for Existence
+E01 · The Unit That Fires
 
-## Listing copy (if published)
+Visual interpretation of the production master. It accompanies an observation. It does not identify it.
 
-Title: The Unit That Fires — visual interpretation  
-Must state: visual interpretation; does not identify the observation.  
-Must not say: neuron confirmed / registration succeeded / death.
+An observation is recorded. It is not identified. The record is not the living being.
 
-G7 PASS when public URL exists and re-downloaded file matches the hash.
+Observation ≠ Interpretation ≠ Proof.
+
+Audio release: https://github.com/funebra/funebra-original-audio-series/releases/tag/s001e01
+
+The Unit That Fires is a public production title (I), not LS110600 canon.
+
+G7 PASS when you return the public URL.
+This environment cannot log into YouTube.
